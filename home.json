@@ -1,0 +1,83 @@
+{
+  "modules": [
+    {
+      "content": "",
+      "headline": "",
+      "moreTitle": "",
+      "promos": [
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-importantCarousel-pos-1",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "Los Protagonistas"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-importantCarousel-pos-2",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "FUT AZTECA"
+        }
+      ],
+      "view": "importantCarousel"
+    },
+    {
+      "content": "",
+      "headline": "",
+      "moreTitle": "",
+      "promos": [
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-liveCarousel-pos-1",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "FUT AZTECA"
+        }
+      ],
+      "view": "liveCarousel"
+    }
+  ],
+  "title": "HomeScreen"
+}
+
+
+
+
+
+-(void) celdaSeleccionada:(NSDictionary*)dDta{
+    NSString *sPrivateCfg = dDta[@"privateCfg"];
+    NSString *sActivateGeoblocking = dDta[@"activateGeoblocking"];
+    BOOL activateGeoblocking = [sActivateGeoblocking boolValue];
+    [[myLoginManager shared] modalLoginWithUrl:sPrivateCfg privateType:dDta[@"private"] content:dDta[@"firebasescreen"] image:dDta[@"imagen"] geoblocking:activateGeoblocking completion:^(BOOL success) {
+        if (success){
+            [self checaPorPrivateUrl];
+        } else {
+            [self cargaTipoContenido:self->dLoadingData];
+        }
+    }];
+}
