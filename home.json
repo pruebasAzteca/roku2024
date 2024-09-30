@@ -34,13 +34,28 @@
           "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
           "tags": [],
           "title": "FUT AZTECA"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-importantCarousel-pos-2",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "FUT AZTECA"
         }
       ],
       "view": "importantCarousel"
     },
     {
       "content": "",
-      "headline": "",
+      "headline": "En vivo ahora",
       "moreTitle": "",
       "promos": [
         {
@@ -56,28 +71,139 @@
           "publicationDate": "",
           "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
           "tags": [],
-          "title": "FUT AZTECA"
+          "title": "Azteca UNO"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-liveCarousel-pos-2",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "Azteca 7"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-liveCarousel-pos-3",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "ADN40"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-liveCarousel-pos-4",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "a más +"
         }
       ],
       "view": "liveCarousel"
+    },
+    {
+      "content": "",
+      "headline": "Programas",
+      "moreTitle": "",
+      "promos": [
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-highCarousel-pos-1",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "Ventaneando"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-highCarousel-pos-2",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "Venga la alegría"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-highCarousel-pos-3",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "Acercate a Rocío"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-highCarousel-pos-4",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "Escape perfecto"
+        },
+        {
+          "author": "",
+          "contentType": "",
+          "durationTime": "",
+          "firebaseEvent": "homeScreen-highCarousel-pos-5",
+          "highlighted": false,
+          "id": "",
+          "image": "",
+          "linkPermanente": "",
+          "private": "0",
+          "publicationDate": "",
+          "__subtitle": "De lunes a viernes toda la información deportiva que trae para ti Los Protagonistas",
+          "tags": [],
+          "title": "La resolana"
+        }
+      ],
+      "view": "highCarousel"
     }
   ],
   "title": "HomeScreen"
-}
-
-
-
-
-
--(void) celdaSeleccionada:(NSDictionary*)dDta{
-    NSString *sPrivateCfg = dDta[@"privateCfg"];
-    NSString *sActivateGeoblocking = dDta[@"activateGeoblocking"];
-    BOOL activateGeoblocking = [sActivateGeoblocking boolValue];
-    [[myLoginManager shared] modalLoginWithUrl:sPrivateCfg privateType:dDta[@"private"] content:dDta[@"firebasescreen"] image:dDta[@"imagen"] geoblocking:activateGeoblocking completion:^(BOOL success) {
-        if (success){
-            [self checaPorPrivateUrl];
-        } else {
-            [self cargaTipoContenido:self->dLoadingData];
-        }
-    }];
 }
