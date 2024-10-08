@@ -1,0 +1,35 @@
+{
+  "modules": [
+    {
+      "promos": [
+        {
+          "author": "Publicado por: no-author",
+          "body": "https://uat.tv-azteca.psdops.com/aztecauno/la-academia-24-7/envivo?appView=true&im=//IM//",
+          "contentType": "envivo",
+          "mainMedia": {
+            "durationTime": "12:59:00",
+            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?pp=default&cmsid=2511086&ad_type=audio_video&description_url=https%3A%2F%2Fuat.tv-azteca.psdops.com%2Faztecauno%2Fla-academia-24-7%2Fenvivo&hl=es&sz=640x480&ad_rule=1&ads%3Fsz=640x480&gdfp_req=1&env=instream&iu=%2F29782907%2FAztecaUno%2FLa-Academia%2FLa-Academia-EnVivo&url=https%3A%2F%2Fuat.tv-azteca.psdops.com%2Faztecauno%2Fla-academia-24-7%2Fenvivo&ciu_szs=&output=vast&vid=664ce234d1915308991327d1&cust_params=duration%3Dover5min%26Entre_ID%3D664ce234d1915308991327d1%26site%3DAztecaUNO%26section%3Dnull&correlator=&impl=s&unviewed_position_start=1&ads%3Fslotname=&device=",
+            "video": "https://mdstrm.com/live-stream-playlist/664ce234d1915308991327d1.m3u8",
+            "videoAssetId": "664ce234d1915308991327d1",
+            "view": "video"
+          },
+          "publicationDate": "11 junio 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "type": "ContentType"
+            },
+            {
+              "color": "#ffffff",
+              "name": "La Academia",
+              "type": "Section"
+            }
+          ],
+          "title": "EN VIVO: La Academia. Transmisión directa de La Academia 24/7."
+        }
+      ],
+      "view": "enVivoContent"
+    }
+  ],
+  "title": "EN VIVO: La Academia. Transmisión directa de La Academia 24/7."
+}

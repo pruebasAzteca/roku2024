@@ -1,0 +1,35 @@
+{
+  "modules": [
+    {
+      "promos": [
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "body": "https://uat.tv-azteca.psdops.com/aztecauno/programa-06-mayo-2024-esposa-barcelata-explica-como-sucedio-abuso?appView=true&im=//IM//",
+          "contentType": "video",
+          "mainMedia": {
+            "durationTime": "35:40",
+            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?pp=default&cmsid=2511086&ad_type=audio_video&description_url=https%3A%2F%2Fuat.tv-azteca.psdops.com%2Faztecauno%2Fprograma-06-mayo-2024-esposa-barcelata-explica-como-sucedio-abuso&hl=es&sz=640x480&ad_rule=1&ads%3Fsz=640x480&gdfp_req=1&env=instream&iu=%2F29782907%2FAztecaUno%2FVentaneando%2FVentaneando-Programas-Completos%2FVentaneando-Programas-Completos-video&url=https%3A%2F%2Fuat.tv-azteca.psdops.com%2Faztecauno%2Fprograma-06-mayo-2024-esposa-barcelata-explica-como-sucedio-abuso&ciu_szs=&output=vast&vid=66393d6ba59bfb08a7283795&cust_params=duration%3Dover5min%26Entre_ID%3D66393d6ba59bfb08a7283795%26site%3DAztecaUNO%26section%3Dnull&correlator=&impl=s&unviewed_position_start=1&ads%3Fslotname=&device=",
+            "video": "https://mdstrm.com/video/66393d6ba59bfb08a7283795.m3u8",
+            "videoAssetId": "66393d6ba59bfb08a7283795",
+            "view": "video"
+          },
+          "publicationDate": "06 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Programa 06 mayo 2024 | Esposa de Barcelata explica cómo sucedió abuso"
+        }
+      ],
+      "view": "article"
+    }
+  ],
+  "title": "Detalle de la nota"
+}

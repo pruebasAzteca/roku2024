@@ -1,447 +1,779 @@
 {
-    "providerName": "Hosttec Solutions",
-    "language": "en-US",
-    "lastUpdated": "2017-02-07T18:12:32.125Z",
-    "tvSpecials": [
+  "modules": [
+    {
+      "content": "",
+      "headline": "Programas Ventaneando",
+      "moreTitle": "",
+      "promos": [
         {
-            "id": "b001",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/1.jpeg",
-            "releaseDate": "2024-08-23T15:42:59-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 109,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 1275129
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "35:40",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-1",
+          "highlighted": false,
+          "id": "0000018f-5027-dc93-ab8f-78ff764f0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/e98b9ea/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7c%2F66%2F43c196574fa2836b37e47b8641d0%2Fcompleto1.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "1",
+          "publicationDate": "06 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa 06 mayo 2024 | Esposa de Barcelata explica cómo sucedió abuso"
         },
         {
-            "id": "b002",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/2.jpeg",
-            "releaseDate": "2024-08-23T15:43:34-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 30,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2041772
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "33:58",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-2",
+          "highlighted": false,
+          "id": "0000018f-402f-d71e-abdf-c46f78aa0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/56f4438/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F51%2F025f99814a1990bd34e59a8187bc%2Fprograma-03-mayo-2024-margarita-y-lo-dificil-de-enfrentar-el-abuso-de-su-papa.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "03 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa 03 mayo 2024 | Margarita y lo difícil de enfrentar el abuso de su papá"
         },
         {
-            "id": "b003",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/3.jpeg",
-            "releaseDate": "2024-08-23T15:43:55-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 550,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 1492111
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "34:44",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-3",
+          "highlighted": false,
+          "id": "0000018f-3b2d-d71e-abdf-bf6fbc230000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5a21ba9/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F28%2Fd3%2F766fefab4159ba2006e6a2a51318%2Fprograma-del-02-mayo-2024-margarita-cuenta-la-traicion-de-su-esposo.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "02 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa del 02 mayo 2024 | Margarita cuenta la traición de su esposo"
         },
         {
-            "id": "b004",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/4.jpeg",
-            "releaseDate": "2024-08-23T15:46:29-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 120,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2080615
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "34:47",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-4",
+          "highlighted": false,
+          "id": "0000018f-35e7-d71e-abdf-b5ef546b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/e16badb/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F13%2F45%2Fa3fde9804ae0a60fc8fddfb678f9%2Fprograma-01-mayo-2024-julio-cesar-chavez-jr-agradecido-por-su-detencion.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "01 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa 01 mayo 2024 | Julio César Chávez Jr. agradecido por su detención"
         },
         {
-            "id": "b005",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/5.jpeg",
-            "releaseDate": "2024-08-23T15:47:09-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 36,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2471462
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "30:44",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-5",
+          "highlighted": false,
+          "id": "0000018f-30ea-d71e-abdf-b4ea2c450000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/fff5d1e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb6%2F09%2F33e316924415bcfc7ddf575a191a%2Fprograma-del-30-de-abril-2024-paola-nunez-regresa-con-abandonados.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "30 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa del 30 de abril 2024 | Paola Núñez regresa con 'Abandonados'"
         },
         {
-            "id": "b006",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/6.jpeg",
-            "releaseDate": "2024-08-23T15:47:26-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 25,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2634479
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "33:44",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-6",
+          "highlighted": false,
+          "id": "0000018f-2b96-d862-a58f-7bd6098b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/87af0b2/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb2%2F14%2Fdd9987ae40e4ac408854904aed44%2Fcap-4.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "29 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa 29 abril 2024 | Se pospone audiencia de Cabezut y Aurea Zapata"
         },
         {
-            "id": "b007",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/7.jpeg",
-            "releaseDate": "2024-08-23T15:47:40-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 1491,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2972035
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "33:42",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-7",
+          "highlighted": false,
+          "id": "0000018f-1c22-d862-a58f-7ce6f47b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/108c1bc/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff0%2Fe9%2F62e596434952900b1b75620c4217%2Fprograma-del-26-de-abril-2024-manolo-caro-nos-platico-de-su-nueva-pelicula.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "26 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa del 26 de abril 2024 | Manolo Caro nos platicó de su nueva película"
         },
         {
-            "id": "b008",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/8.jpeg",
-            "releaseDate": "2024-08-23T15:58:41-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 31,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 1363606
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "33:25",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-8",
+          "highlighted": false,
+          "id": "0000018f-16f8-d862-a58f-76fe071b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/85c5dbe/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Faa%2F8a%2Fd2c50cc44f67bc529135782d082d%2Fprograma-del-25-de-abril-2024-daniel-relata-experiencia-sobrenatural.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "25 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa del 25 de abril 2024 | Daniel relata experiencia sobrenatural"
         },
         {
-            "id": "c001",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/9.jpeg",
-            "releaseDate": "2024-08-23T15:42:59-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 109,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 1275129
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "34:28",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-9",
+          "highlighted": false,
+          "id": "0000018f-11df-da99-ad8f-d1ff66460000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/46f27a2/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff1%2Fe4%2F10379a45453887029bb28dc647b2%2Fprograma-24-de-abril-2024-adianez-y-augusto-bravo-llegan-al-altar.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "24 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
+          ],
+          "title": "Programa 24 de abril 2024 | ¿Adianez y Augusto Bravo llegan al altar?"
         },
         {
-            "id": "c002",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/10.jpeg",
-            "releaseDate": "2024-08-23T15:43:34-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 30,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2041772
-                    }
-                ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "34:49",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-10",
+          "highlighted": false,
+          "id": "0000018f-0cab-da99-ad8f-dcbb50f60000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/f1b8ed3/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc7%2F13%2Fb1ec1bd34a068e346a49b9cbe5ca%2Fprograma-del-23-de-abril-2024-daniel-bisogno-regreso-al-foro.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "23 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
             }
-        },
-        {
-            "id": "c003",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/11.jpeg",
-            "releaseDate": "2024-08-23T15:43:55-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 550,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 1492111
-                    }
-                ]
-            }
-        },
-        {
-            "id": "c004",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/12.jpeg",
-            "releaseDate": "2024-08-23T15:46:29-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 120,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2080615
-                    }
-                ]
-            }
-        },
-        {
-            "id": "c005",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/13.jpeg",
-            "releaseDate": "2024-08-23T15:47:09-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 36,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2471462
-                    }
-                ]
-            }
-        },
-        {
-            "id": "c006",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/14.jpeg",
-            "releaseDate": "2024-08-23T15:47:26-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 25,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2634479
-                    }
-                ]
-            }
-        },
-        {
-            "id": "c007",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/15.jpeg",
-            "releaseDate": "2024-08-23T15:47:40-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 1491,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 2972035
-                    }
-                ]
-            }
-        },
-        {
-            "id": "c008",
-            "title": "La Academia",
-            "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
-            "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/16.jpeg",
-            "releaseDate": "2024-08-23T15:58:41-04:00",
-            "genres": [
-                ""
-            ],
-            "tags": [
-                ""
-            ],
-            "content": {
-                "dateAdded": "2024-08-23T19:04:45-04:00",
-                "duration": 31,
-                "videos": [
-                    {
-                        "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
-                        "quality": "HD",
-                        "videoType": "HLS",
-                        "bitrate": 1363606
-                    }
-                ]
-            }
+          ],
+          "title": "Programa del 23 de abril 2024 | Daniel Bisogno regresó al foro"
         }
-    ],
-    "playlists": [
+      ],
+      "view": "descriptionRowList"
+    },
+    {
+      "content": "",
+      "headline": "Exclusivas",
+      "moreTitle": "",
+      "promos": [
         {
-            "name": "playerlist01",
-            "itemIds": [
-                "b001",
-                "b002",
-                "b003",
-                "b004",
-                "b005",
-                "b006",
-                "b007",
-                "b008"
-            ]
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "3:18",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-1",
+          "highlighted": false,
+          "id": "0000018f-5027-dc93-ab8f-78ff8ea50000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/06e5b9e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fac%2F7b%2F53d4849d4bc59779eb0de5e57a76%2Fn5-2.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "06 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Claudia Lizaldi habla sobre rumor de infidelidad de ex con Ingrid Coronado"
         },
         {
-            "name": "playerlist02",
-            "itemIds": [
-                "c001",
-                "c002",
-                "c003",
-                "c004",
-                "c005",
-                "c006",
-                "c007",
-                "c008"
-            ]
-        }
-    ],
-    "categories": [
-        {
-            "name": "Conciertos completos",
-            "playlistName": "playerlist01",
-            "order": "manual"
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "15:19",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-2",
+          "highlighted": false,
+          "id": "0000018f-5027-dc93-ab8f-78ff91cc0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/de1be95/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd7%2F6f%2F799c383042609cc85972ff9568b4%2Fn4-1.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "06 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "María José Suárez nos explica que hay más víctimas de 'Chito' Villegas"
         },
         {
-            "name": "Los Académicos",
-            "playlistName": "playerlist02",
-            "order": "manual"
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "1:36",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-3",
+          "highlighted": false,
+          "id": "0000018f-4f59-d71e-abdf-cf5b53190000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/ecc0292/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fde%2F35%2F59cca4d14d2ea5765753e9a95125%2Fn3-2.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "06 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "'Chito' Villegas huye de presentación al notar presencia de Ventaneando"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "2:52",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-4",
+          "highlighted": false,
+          "id": "0000018f-4f54-d71e-abdf-cf5ebad30000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8473e37/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F90%2Fdc%2F23ea7fb64de8878f028169f6fc43%2Fn2-1.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "06 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Barcelata respeta el tiempo que a su esposa le tomó denunciar a su abusador"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "2:07",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-5",
+          "highlighted": false,
+          "id": "0000018f-4018-d71e-abdf-c45a942f0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/24ff907/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F83%2F28%2F412b9416426bbdb0a431cd3f73af%2Fesposa-de-barcelata-denuncia-a-conductor-por-drogarla-y-abusar-de-ella.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "03 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Esposa de Barcelata denuncia a sujeto por drogarla y abusar de ella"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "5:14",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-6",
+          "highlighted": false,
+          "id": "0000018f-4014-d71e-abdf-c45e08050000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/88b6006/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F46%2F91%2F34d2cfab4c5e8995216d6adbb6d9%2Fhermana-de-danny-rey-asegura-que-el-es-inocente-por-supuesto-abuso.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "03 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Hermana de Danny Rey asegura que él es inocente de supuesto abuso"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "6:39",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-7",
+          "highlighted": false,
+          "id": "0000018f-400f-d71e-abdf-c44f70500000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/9356580/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fed%2Ff9%2F6ebb312e4b71ada995dc109ac980%2Fmargarita-revela-lo-dificil-que-fue-enfrentar-el-abuso-que-sufrio-de-su-propio-padre.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "03 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Margarita revela lo difícil que fue enfrentar el abuso que sufrió de su propio padre"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "2:34",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-8",
+          "highlighted": false,
+          "id": "0000018f-3afb-d71e-abdf-befb5fe40000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/cce7b8d/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8d%2F31%2Ff1bbdcab43f686a611123f4bf636%2Fpedro-sola-causo-gran-revuelo-al-ir-al-volante-con-escorpion-dorado.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "02 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Pedro Sola causó gran revuelo al ir al volante con Escorpión Dorado"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "3:53",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-9",
+          "highlighted": false,
+          "id": "0000018f-3af6-d71e-abdf-befecc860000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/d13c7b1/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F93%2F61%2F70b6ba744771b22602a6b093a515%2Fingrid-coronado-ya-habia-confirmado-que-tenia-pareja-sentimental-pero-prefirio-dejar-su-identidad-en-privado.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "02 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Ingrid Coronado confirmó estar feliz con su nuevo amor, y prefiere dejarlo en privado"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "6:23",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-exclusivas-pos-10",
+          "highlighted": false,
+          "id": "0000018f-3adf-d71e-abdf-bedff08f0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/869b664/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2f%2Fd8%2F12c1e83943dba07913a8f09f54ec%2Fmargarita-sufrio-mucho-al-saberse-enganada-por-su-esposo-y-su-mejor-amiga.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "02 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Margarita sufrió mucho al saberse engañada por su esposo y su mejor amiga"
         }
-    ]
+      ],
+      "view": "descriptionRowList"
+    },
+    {
+      "content": "",
+      "headline": "Invitados",
+      "moreTitle": "",
+      "promos": [
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "8:49",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-1",
+          "highlighted": false,
+          "id": "0000018f-35ab-d71e-abdf-b5ebd2dd0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/0ad6ba2/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F25%2F7d%2F509e7e9d4b729387a9693d08b29a%2Fadal-ramones-nos-visito-para-platicarnos-detalles-de-otra-vez-papa.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "01 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Adal Ramones nos visitó para platicarnos detalles de 'Otra vez papá'"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "7:35",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-2",
+          "highlighted": false,
+          "id": "0000018f-3085-d862-a58f-70c775fd0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/38097ae/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcb%2F3f%2F658912494f70b71fb63a95bfe3ec%2Fpaola-nunez-regresa-a-tv-azteca-como-conductora-de-abandonados.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "30 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Paola Núñez regresa a TV Azteca como conductora de 'Abandonados'"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "5:58",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-3",
+          "highlighted": false,
+          "id": "0000018f-1bec-d862-a58f-7bee06670000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/73970ca/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F23%2F4f%2F33f9e46942d3a83b457cd3c763d6%2Fmanolo-caro-nos-platico-los-detalles-de-fiesta-en-la-madriguera.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "26 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Manolo Caro nos platicó los detalles de 'Fiesta en la madriguera'"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "6:55",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-4",
+          "highlighted": false,
+          "id": "0000018f-16ca-d862-a58f-76ce41fb0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8a88bdd/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb3%2F14%2F2910226641bc8176a734808f2226%2Faxel-muniz-nos-platica-del-tema-al-lado-de-alex-ubago-eres-mi-todo.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "25 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Axel Muñiz nos platica del tema al lado de Alex Ubago, 'Eres mi todo'"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "5:00",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-5",
+          "highlighted": false,
+          "id": "0000018f-119a-da99-ad8f-d1bbbcf20000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/445f56e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F67%2F98%2F2566594740b18532ccd91cb0409d%2Fintegrantes-de-la-onda-vaselina-original-no-platican-de-su-regreso.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "24 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Integrantes de La Onda Vaselina original nos platican de su regreso!"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "5:24",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-6",
+          "highlighted": false,
+          "id": "0000018f-0c7d-dba4-a1af-9c7d86850000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/fa0b26d/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F20%2F1e%2Fa6f231f14820a0e661cb65ae4f4a%2Fjuan-manuel-bernal.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "23 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Juan Manuel Bernal nos visitó para platicarnos de 'Madres e hijos'"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "7:39",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-7",
+          "highlighted": false,
+          "id": "0000018f-0760-dba4-a1af-9f7150ea0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/9611778/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3b%2F56%2Fe0bc93b64fe6a35168964bb5c1be%2Fmargarita-nos-visito-para-platicar-sobre-su-proxima-presentacion.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "22 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Margarita nos visitó para platicar sobre su próxima presentación"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "6:24",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-8",
+          "highlighted": false,
+          "id": "0000018e-e87a-d009-adcf-ea7a2a6e0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/61395bf/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F12%2Fee%2F58408aa649b19db0c2c322de447c%2Flaureano-brizuela-platica-de-su-regreso-a-los-escenarios-en-el-lunario.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "16 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Laureano Brizuela platica de su regreso a los escenarios en el Lunario"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "7:41",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-9",
+          "highlighted": false,
+          "id": "0000018e-d3d7-d12e-a9be-fbd791630000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/1f3429b/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2F16%2Fc608db91475fa4895f8154d058b3%2Fadriana-esteva-nos-visito-para-platicanos-sobre-su-programa-la-meno.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "12 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Adriana Esteva nos visitó para platicanos sobre su programa 'La Meno'"
+        },
+        {
+          "author": "Publicado por: Por: Carolina Loaiza | TV Azteca Digital",
+          "contentType": "video",
+          "durationTime": "8:03",
+          "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-invitados-pos-10",
+          "highlighted": false,
+          "id": "0000018e-c98a-d12e-a9be-e99ed9de0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/ef51071/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa3%2F9b%2Fb42374d8480baa8a91012d40b582%2Fisaac-hernandez-nos-platica-lo-feliz-que-es-como-papa-y-revela-sus-proximos-proyectos.jpg",
+          "linkPermanente": "https://pruebasazteca.github.io/roku2024/home.json",
+          "private": "0",
+          "publicationDate": "10 abril 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "",
+              "name": "Ventaneando",
+              "type": "Section"
+            }
+          ],
+          "title": "Isaac Hernández nos platica lo feliz que es como papá, y revela sus próximos proyectos"
+        }
+      ],
+      "view": "descriptionRowList"
+    }
+  ],
+  "title": "CTVs Inicio - Ventaneando "
 }
