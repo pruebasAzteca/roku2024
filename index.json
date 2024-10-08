@@ -1,70 +1,55 @@
 {
   "config": {
     "login": {
-      "private": "2"
+      "private": "0",
+      "privateCfg": ""
     }
   },
   "modules": [
   	{
       "screens": [
         {
-          "color": "#004f71",
-          "icon": "f017",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/e5cafb4/2147483647/strip/true/crop/216x216+62+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F90%2F9eca463040d0ba434468895a87a7%2Freciente.png",
+          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/1.png",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
           "title": "Inicio"
         },
         {
-          "color": "#004f71",
-          "icon": "f1ea",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/f9b192b/2147483647/strip/true/crop/216x216+62+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb3%2Fe4%2Fc57b0b2145dfa68e4e131b1ad3de%2Fsecciones.png",
+          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/2.png",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
           "title": "Programas"
         },
         {
-          "color": "#004f71",
-          "icon": "f03d",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/f13c3f5/2147483647/strip/true/crop/216x216+62+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F52%2Ff4%2F2bcd6e994d6f99a3ba1a09c6e8bd%2Fvideos.png",
+          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/3.png",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
           "title": "Realities"
         },
         {
-          "color": "#004f71",
-          "icon": "f03e",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/750a04b/2147483647/strip/true/crop/216x216+62+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F17%2F1d%2F99fa35c24e4e8384504a9c0975c2%2Fgalerias.png",
+          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/4.png",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
           "title": "Telenovelas"
         },
         {
-          "color": "#004f71",
-          "icon": "f075",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/43d5c01/2147483647/strip/true/crop/216x216+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff0%2F25%2Fae571f3a4d06ae6e0b784c9bb35e%2Fopinion.png",
+          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/5.png",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
           "title": "Series"
         },
         {
-          "color": "#004f71",
-          "icon": "f03d",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/f13c3f5/2147483647/strip/true/crop/216x216+62+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F52%2Ff4%2F2bcd6e994d6f99a3ba1a09c6e8bd%2Fvideos.png",
+          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/6.png",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
           "title": "Deportes"
         },
         {
-          "color": "#004f71",
-          "icon": "f03e",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/750a04b/2147483647/strip/true/crop/216x216+62+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F17%2F1d%2F99fa35c24e4e8384504a9c0975c2%2Fgalerias.png",
+          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/7.png",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
           "title": "a más"
         },
         {
-          "color": "#004f71",
-          "icon": "f075",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/43d5c01/2147483647/strip/true/crop/216x216+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff0%2F25%2Fae571f3a4d06ae6e0b784c9bb35e%2Fopinion.png",
+          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/8.png",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
           "title": "Kids 7"
         }
       ],
-      "view": "tabs"
+      "view": "sideBar"
     }
   ]
 }
