@@ -1,0 +1,447 @@
+{
+  "providerName": "Hosttec Solutions",
+  "language": "en-US",
+  "lastUpdated": "2017-02-07T18:12:32.125Z",
+  "tvSpecials": [
+    {
+      "id": "b001",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/1.jpeg",
+      "releaseDate": "2024-08-23T15:42:59-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 109,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 1275129
+          }
+        ]
+      }
+    },
+    {
+      "id": "b002",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/2.jpeg",
+      "releaseDate": "2024-08-23T15:43:34-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 30,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2041772
+          }
+        ]
+      }
+    },
+    {
+      "id": "b003",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/3.jpeg",
+      "releaseDate": "2024-08-23T15:43:55-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 550,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 1492111
+          }
+        ]
+      }
+    },
+    {
+      "id": "b004",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/4.jpeg",
+      "releaseDate": "2024-08-23T15:46:29-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 120,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2080615
+          }
+        ]
+      }
+    },
+    {
+      "id": "b005",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/5.jpeg",
+      "releaseDate": "2024-08-23T15:47:09-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 36,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2471462
+          }
+        ]
+      }
+    },
+    {
+      "id": "b006",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/6.jpeg",
+      "releaseDate": "2024-08-23T15:47:26-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 25,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2634479
+          }
+        ]
+      }
+    },
+    {
+      "id": "b007",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/7.jpeg",
+      "releaseDate": "2024-08-23T15:47:40-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 1491,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2972035
+          }
+        ]
+      }
+    },
+    {
+      "id": "b008",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/8.jpeg",
+      "releaseDate": "2024-08-23T15:58:41-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 31,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 1363606
+          }
+        ]
+      }
+    },
+    {
+      "id": "c001",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/9.jpeg",
+      "releaseDate": "2024-08-23T15:42:59-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 109,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 1275129
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/10.jpeg",
+      "releaseDate": "2024-08-23T15:43:34-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 30,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2041772
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/11.jpeg",
+      "releaseDate": "2024-08-23T15:43:55-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 550,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 1492111
+          }
+        ]
+      }
+    },
+    {
+      "id": "c004",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/12.jpeg",
+      "releaseDate": "2024-08-23T15:46:29-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 120,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2080615
+          }
+        ]
+      }
+    },
+    {
+      "id": "c005",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/13.jpeg",
+      "releaseDate": "2024-08-23T15:47:09-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 36,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2471462
+          }
+        ]
+      }
+    },
+    {
+      "id": "c006",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/14.jpeg",
+      "releaseDate": "2024-08-23T15:47:26-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 25,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2634479
+          }
+        ]
+      }
+    },
+    {
+      "id": "c007",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/15.jpeg",
+      "releaseDate": "2024-08-23T15:47:40-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 1491,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 2972035
+          }
+        ]
+      }
+    },
+    {
+      "id": "c008",
+      "title": "La Academia",
+      "shortDescription": "La Ademia es un reality musical conducido por Jaime Camil donde cada domingo los Académicos llevarán al escenario sus interpretaciones.",
+      "thumbnail": "https://pruebasazteca.github.io/roku2024/image/vod/16.jpeg",
+      "releaseDate": "2024-08-23T15:58:41-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "content": {
+        "dateAdded": "2024-08-23T19:04:45-04:00",
+        "duration": 31,
+        "videos": [
+          {
+            "url": "https://mdstrm.com/video/66fa6c4c1601f082d5e63e92.m3u8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": 1363606
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "playerlist01",
+      "itemIds": [
+        "b001",
+        "b002",
+        "b003",
+        "b004",
+        "b005",
+        "b006",
+        "b007",
+        "b008"
+      ]
+    },
+    {
+      "name": "playerlist02",
+      "itemIds": [
+        "c001",
+        "c002",
+        "c003",
+        "c004",
+        "c005",
+        "c006",
+        "c007",
+        "c008"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Conciertos completos",
+      "playlistName": "playerlist01",
+      "order": "manual"
+    },
+    {
+      "name": "Los Académicos",
+      "playlistName": "playerlist02",
+      "order": "manual"
+    }
+  ]
+}
