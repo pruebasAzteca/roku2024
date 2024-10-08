@@ -111,7 +111,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://tvazteca.brightspotcdn.com/dims4/default/3e53ef5/2147483647/strip/true/crop/1000x508+0+28/resize/1300x660!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1a%2F2f%2F4a5b9f274768a315f1eb837dc01a%2Fposter-apple-tv.jpg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-inicio-ventaneando",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Ventaneando"
         },
         {
@@ -119,7 +119,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://tvazteca.brightspotcdn.com/dims4/default/0d23555/2147483647/strip/true/crop/1000x508+0+28/resize/1300x660!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F55%2Ff3%2Fbbd82bda4ca1b933b53fbb8e324c%2Fposter-roku-1000x564.jpg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-venga-la-alegria",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Venga la alegria"
         },  
         {
@@ -127,7 +127,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://tvazteca.brightspotcdn.com/dims4/default/4a1d697/2147483647/strip/true/crop/1000x508+0+28/resize/1300x660!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F18%2F28%2F22427d2748ab9c84061c98427551%2Ftarjeta-roku-al-extremo-uriel-vanessa.jpg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-al-extremo",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Al Extremo"
         },
         {
@@ -135,7 +135,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://tvazteca.brightspotcdn.com/dims4/default/75f1b80/2147483647/strip/true/crop/1000x508+0+28/resize/1300x660!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fda%2Fd1%2F650b20184fef974e50f4558865bf%2Frocio-roku-1000x563-a001.jpg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-acercate-a-rocio",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Acercate a Rocio"
         }
       ],
@@ -148,7 +148,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/1.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-venga-la-alegria-podcast",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Venga La Alegria Podcast"
         },
         {
@@ -156,7 +156,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/2.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/mucha-muchacha",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "Mucha Muchacha"
         },
         {
@@ -164,7 +164,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/3.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-lo-que-la-gente-cuenta-podcast",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Lo que la gente cuenta Podcast"
         }
       ],
@@ -177,7 +177,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/4.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-copa-america",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Copa america"
         },
         {
@@ -185,7 +185,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/5.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-en-caliente",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs En Caliente"
         }
       ],
@@ -198,7 +198,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/6.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-a-cada-quien-su-santo",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs A cada quien su santo"
         },
         {
@@ -206,7 +206,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/7.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-todo-por-amor",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Todo por amor"
         },
         {
@@ -214,7 +214,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/8.jpegv",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-destino",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Destino"
         }
       ],
@@ -227,7 +227,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/9.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-lo-que-la-gente-cuenta",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Lo que la gente cuenta"
         },
         {
@@ -235,7 +235,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/1.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-lo-que-callamos-las-mujeres",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs Lo que callamos las mujeres"
         },
         {
@@ -243,7 +243,7 @@
           "icon": "https://tvazteca.brightspotcdn.com/dims4/default/5ee5316/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Ff2%2F8790b9334dd191b3d0524517d516%2Flogo-transpariencia.png",
           "description": "descripción del programa. Puede ser fecha de lanzamiento, personajes, temporadas, etc.",
           "cellImage": "https://pruebasazteca.github.io/roku2024/image/program/2.jpeg",
-          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-kids-7",
+          "source": "https://pruebasazteca.github.io/roku2024/vods.json",
           "title": "CTVs 7 Kids"
         }
       ],
