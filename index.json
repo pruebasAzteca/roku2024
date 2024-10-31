@@ -6,47 +6,42 @@
     }
   },
   "modules": [
-  	{
+    {
       "screens": [
         {
-          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/1.png",
+          "icon": "fa-home",
           "source": "https://pruebasazteca.github.io/roku2024/home.json",
-          "title": "Inicio"
+          "title": "CTVs Inicio"
         },
         {
-          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/2.png",
-          "source": "https://pruebasazteca.github.io/roku2024/home.json",
-          "title": "Programas"
+          "icon": "fal fa-video",
+          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-en-vivo",
+          "title": "CTVs En vivo"
         },
         {
-          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/3.png",
-          "source": "https://pruebasazteca.github.io/roku2024/home.json",
-          "title": "Realities"
+          "icon": "fa-microphone",
+          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-podcast",
+          "title": "CTVs Podcasts"
         },
         {
-          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/4.png",
-          "source": "https://pruebasazteca.github.io/roku2024/home.json",
-          "title": "Telenovelas"
+          "icon": "fas fa-tv",
+          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-programas",
+          "title": "CTVs Programas"
         },
         {
-          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/5.png",
-          "source": "https://pruebasazteca.github.io/roku2024/home.json",
-          "title": "Series"
+          "icon": "fa-futbol",
+          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-deportes",
+          "title": "CTVs Deportes"
         },
         {
-          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/6.png",
-          "source": "https://pruebasazteca.github.io/roku2024/home.json",
-          "title": "Deportes"
+          "icon": "fa-square-heart",
+          "source": "https://uat.tv-azteca.psdops.com/app/screen/ctvs-telenovelas",
+          "title": "CTVs Telenovelas"
         },
         {
-          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/7.png",
-          "source": "https://pruebasazteca.github.io/roku2024/home.json",
-          "title": "a más"
-        },
-        {
-          "icon": "https://pruebasazteca.github.io/roku2024/image/icon/8.png",
-          "source": "https://pruebasazteca.github.io/roku2024/home.json",
-          "title": "Kids 7"
+          "icon": "fa-film",
+          "source": "https://uat.tv-azteca.psdops.com/app/screen/cine-mexicano",
+          "title": "CTVs Cine Mexicano"
         }
       ],
       "view": "sideBar"
